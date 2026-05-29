@@ -1,0 +1,308 @@
+Time 0
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 1
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 2
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 3
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 4
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 5
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 6
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 7
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 8
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 9
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 10
+Waiting clients: [Id: 3, AT: 11, ST: 2, Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 11
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Id: 3, AT: 11, ST: 2; 
+Queue 2: Empty
+
+Time 12
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Id: 3, AT: 11, ST: 1; 
+Queue 2: Empty
+
+Time 13
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 14
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 15
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 16
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 17
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 18
+Waiting clients: [Id: 1, AT: 19, ST: 2, Id: 2, AT: 19, ST: 2, Id: 4, AT: 21, ST: 2]
+Queue 1: Empty
+Queue 2: Empty
+
+Time 19
+Waiting clients: [Id: 4, AT: 21, ST: 2]
+Queue 1: Id: 1, AT: 19, ST: 2; 
+Queue 2: Id: 2, AT: 19, ST: 2; 
+
+Time 20
+Waiting clients: [Id: 4, AT: 21, ST: 2]
+Queue 1: Id: 1, AT: 19, ST: 1; 
+Queue 2: Id: 2, AT: 19, ST: 1; 
+
+Time 21
+Waiting clients: none
+Queue 1: Id: 4, AT: 21, ST: 2; 
+Queue 2: Empty
+
+Time 22
+Waiting clients: none
+Queue 1: Id: 4, AT: 21, ST: 1; 
+Queue 2: Empty
+
+Time 23
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 24
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 25
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 26
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 27
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 28
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 29
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 30
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 31
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 32
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 33
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 34
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 35
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 36
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 37
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 38
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 39
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 40
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 41
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 42
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 43
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 44
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 45
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 46
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 47
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 48
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 49
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 50
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 51
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 52
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 53
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 54
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 55
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 56
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 57
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 58
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 59
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Time 60
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+
+Average waiting time: 0.00
+Average service time: 2.00
+Peak hour: 19

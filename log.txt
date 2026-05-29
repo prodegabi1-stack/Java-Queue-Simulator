@@ -1,0 +1,23 @@
+Time 0
+Waiting clients: [Id: 1, AT: 7, ST: 4, Id: 5, AT: 7, ST: 4, Id: 2, AT: 8, ST: 3, Id: 3, AT: 8, ST: 5, Id: 4, AT: 8, ST: 5]
+Queue 1: Empty
+
+Time 1
+Waiting clients: [Id: 1, AT: 7, ST: 4, Id: 5, AT: 7, ST: 4, Id: 2, AT: 8, ST: 3, Id: 3, AT: 8, ST: 5, Id: 4, AT: 8, ST: 5]
+Queue 1: Empty
+
+Time 2
+Waiting clients: [Id: 1, AT: 7, ST: 4, Id: 5, AT: 7, ST: 4, Id: 2, AT: 8, ST: 3, Id: 3, AT: 8, ST: 5, Id: 4, AT: 8, ST: 5]
+Queue 1: Empty
+
+Time 3
+Waiting clients: [Id: 1, AT: 7, ST: 4, Id: 5, AT: 7, ST: 4, Id: 2, AT: 8, ST: 3, Id: 3, AT: 8, ST: 5, Id: 4, AT: 8, ST: 5]
+Queue 1: Empty
+
+Time 4
+Waiting clients: [Id: 1, AT: 7, ST: 4, Id: 5, AT: 7, ST: 4, Id: 2, AT: 8, ST: 3, Id: 3, AT: 8, ST: 5, Id: 4, AT: 8, ST: 5]
+Queue 1: Empty
+
+Average waiting time: 0.00
+Average service time: 0.00
+Peak hour: 0
