@@ -1,0 +1,491 @@
+Time 0
+Waiting clients: [Id: 7, AT: 2, ST: 1, Id: 11, AT: 6, ST: 1, Id: 42, AT: 6, ST: 6, Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 1
+Waiting clients: [Id: 7, AT: 2, ST: 1, Id: 11, AT: 6, ST: 1, Id: 42, AT: 6, ST: 6, Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 2
+Waiting clients: [Id: 11, AT: 6, ST: 1, Id: 42, AT: 6, ST: 6, Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 7, AT: 2, ST: 1; 
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 3
+Waiting clients: [Id: 11, AT: 6, ST: 1, Id: 42, AT: 6, ST: 6, Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 4
+Waiting clients: [Id: 11, AT: 6, ST: 1, Id: 42, AT: 6, ST: 6, Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 5
+Waiting clients: [Id: 11, AT: 6, ST: 1, Id: 42, AT: 6, ST: 6, Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 6
+Waiting clients: [Id: 6, AT: 7, ST: 1, Id: 28, AT: 7, ST: 3, Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 11, AT: 6, ST: 1; 
+Queue 2: Id: 42, AT: 6, ST: 6; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 7
+Waiting clients: [Id: 8, AT: 8, ST: 6, Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 6, AT: 7, ST: 1; 
+Queue 2: Id: 42, AT: 6, ST: 5; 
+Queue 3: Id: 28, AT: 7, ST: 3; 
+Queue 4: Empty
+Queue 5: Empty
+
+Time 8
+Waiting clients: [Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 8, AT: 8, ST: 6; 
+Queue 2: Id: 42, AT: 6, ST: 4; 
+Queue 3: Id: 28, AT: 7, ST: 2; 
+Queue 4: Empty
+Queue 5: Empty
+
+Time 9
+Waiting clients: [Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 8, AT: 8, ST: 5; 
+Queue 2: Id: 42, AT: 6, ST: 3; 
+Queue 3: Id: 28, AT: 7, ST: 1; 
+Queue 4: Empty
+Queue 5: Empty
+
+Time 10
+Waiting clients: [Id: 12, AT: 11, ST: 1, Id: 24, AT: 11, ST: 6, Id: 50, AT: 11, ST: 4, Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 8, AT: 8, ST: 4; 
+Queue 2: Id: 42, AT: 6, ST: 2; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 11
+Waiting clients: [Id: 32, AT: 12, ST: 2, Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 8, AT: 8, ST: 3; 
+Queue 2: Id: 42, AT: 6, ST: 1; 
+Queue 3: Id: 12, AT: 11, ST: 1; 
+Queue 4: Id: 24, AT: 11, ST: 6; 
+Queue 5: Id: 50, AT: 11, ST: 4; 
+
+Time 12
+Waiting clients: [Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 8, AT: 8, ST: 2; 
+Queue 2: Id: 32, AT: 12, ST: 2; 
+Queue 3: Empty
+Queue 4: Id: 24, AT: 11, ST: 5; 
+Queue 5: Id: 50, AT: 11, ST: 3; 
+
+Time 13
+Waiting clients: [Id: 4, AT: 14, ST: 3, Id: 25, AT: 14, ST: 4, Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 8, AT: 8, ST: 1; 
+Queue 2: Id: 32, AT: 12, ST: 1; 
+Queue 3: Empty
+Queue 4: Id: 24, AT: 11, ST: 4; 
+Queue 5: Id: 50, AT: 11, ST: 2; 
+
+Time 14
+Waiting clients: [Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 4, AT: 14, ST: 3; 
+Queue 2: Id: 25, AT: 14, ST: 4; 
+Queue 3: Empty
+Queue 4: Id: 24, AT: 11, ST: 3; 
+Queue 5: Id: 50, AT: 11, ST: 1; 
+
+Time 15
+Waiting clients: [Id: 19, AT: 16, ST: 7, Id: 33, AT: 16, ST: 7, Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 4, AT: 14, ST: 2; 
+Queue 2: Id: 25, AT: 14, ST: 3; 
+Queue 3: Empty
+Queue 4: Id: 24, AT: 11, ST: 2; 
+Queue 5: Empty
+
+Time 16
+Waiting clients: [Id: 2, AT: 17, ST: 6, Id: 3, AT: 17, ST: 3, Id: 45, AT: 17, ST: 4, Id: 46, AT: 17, ST: 7, Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 4, AT: 14, ST: 1; 
+Queue 2: Id: 25, AT: 14, ST: 2; 
+Queue 3: Id: 19, AT: 16, ST: 7; 
+Queue 4: Id: 24, AT: 11, ST: 1; 
+Queue 5: Id: 33, AT: 16, ST: 7; 
+
+Time 17
+Waiting clients: [Id: 47, AT: 18, ST: 1, Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 2, AT: 17, ST: 6; Id: 45, AT: 17, ST: 4; 
+Queue 2: Id: 25, AT: 14, ST: 1; Id: 46, AT: 17, ST: 7; 
+Queue 3: Id: 19, AT: 16, ST: 6; 
+Queue 4: Id: 3, AT: 17, ST: 3; 
+Queue 5: Id: 33, AT: 16, ST: 6; 
+
+Time 18
+Waiting clients: [Id: 16, AT: 19, ST: 2, Id: 23, AT: 19, ST: 2, Id: 40, AT: 19, ST: 7, Id: 41, AT: 19, ST: 2, Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 2, AT: 17, ST: 5; Id: 45, AT: 17, ST: 4; 
+Queue 2: Id: 46, AT: 17, ST: 7; Id: 47, AT: 18, ST: 1; 
+Queue 3: Id: 19, AT: 16, ST: 5; 
+Queue 4: Id: 3, AT: 17, ST: 2; 
+Queue 5: Id: 33, AT: 16, ST: 5; 
+
+Time 19
+Waiting clients: [Id: 18, AT: 20, ST: 5, Id: 49, AT: 20, ST: 7, Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 2, AT: 17, ST: 4; Id: 45, AT: 17, ST: 4; Id: 41, AT: 19, ST: 2; 
+Queue 2: Id: 46, AT: 17, ST: 6; Id: 47, AT: 18, ST: 1; 
+Queue 3: Id: 19, AT: 16, ST: 4; Id: 16, AT: 19, ST: 2; 
+Queue 4: Id: 3, AT: 17, ST: 1; Id: 23, AT: 19, ST: 2; 
+Queue 5: Id: 33, AT: 16, ST: 4; Id: 40, AT: 19, ST: 7; 
+
+Time 20
+Waiting clients: [Id: 26, AT: 21, ST: 3, Id: 48, AT: 21, ST: 2, Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 2, AT: 17, ST: 3; Id: 45, AT: 17, ST: 4; Id: 41, AT: 19, ST: 2; 
+Queue 2: Id: 46, AT: 17, ST: 5; Id: 47, AT: 18, ST: 1; Id: 49, AT: 20, ST: 7; 
+Queue 3: Id: 19, AT: 16, ST: 3; Id: 16, AT: 19, ST: 2; 
+Queue 4: Id: 23, AT: 19, ST: 2; Id: 18, AT: 20, ST: 5; 
+Queue 5: Id: 33, AT: 16, ST: 3; Id: 40, AT: 19, ST: 7; 
+
+Time 21
+Waiting clients: [Id: 31, AT: 22, ST: 6, Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 2, AT: 17, ST: 2; Id: 45, AT: 17, ST: 4; Id: 41, AT: 19, ST: 2; 
+Queue 2: Id: 46, AT: 17, ST: 4; Id: 47, AT: 18, ST: 1; Id: 49, AT: 20, ST: 7; 
+Queue 3: Id: 19, AT: 16, ST: 2; Id: 16, AT: 19, ST: 2; Id: 26, AT: 21, ST: 3; 
+Queue 4: Id: 23, AT: 19, ST: 1; Id: 18, AT: 20, ST: 5; Id: 48, AT: 21, ST: 2; 
+Queue 5: Id: 33, AT: 16, ST: 2; Id: 40, AT: 19, ST: 7; 
+
+Time 22
+Waiting clients: [Id: 20, AT: 23, ST: 7, Id: 37, AT: 23, ST: 5, Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 2, AT: 17, ST: 1; Id: 45, AT: 17, ST: 4; Id: 41, AT: 19, ST: 2; 
+Queue 2: Id: 46, AT: 17, ST: 3; Id: 47, AT: 18, ST: 1; Id: 49, AT: 20, ST: 7; 
+Queue 3: Id: 19, AT: 16, ST: 1; Id: 16, AT: 19, ST: 2; Id: 26, AT: 21, ST: 3; 
+Queue 4: Id: 18, AT: 20, ST: 5; Id: 48, AT: 21, ST: 2; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 33, AT: 16, ST: 1; Id: 40, AT: 19, ST: 7; 
+
+Time 23
+Waiting clients: [Id: 36, AT: 24, ST: 7, Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 45, AT: 17, ST: 4; Id: 41, AT: 19, ST: 2; Id: 37, AT: 23, ST: 5; 
+Queue 2: Id: 46, AT: 17, ST: 2; Id: 47, AT: 18, ST: 1; Id: 49, AT: 20, ST: 7; 
+Queue 3: Id: 16, AT: 19, ST: 2; Id: 26, AT: 21, ST: 3; 
+Queue 4: Id: 18, AT: 20, ST: 4; Id: 48, AT: 21, ST: 2; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 40, AT: 19, ST: 7; Id: 20, AT: 23, ST: 7; 
+
+Time 24
+Waiting clients: [Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 45, AT: 17, ST: 3; Id: 41, AT: 19, ST: 2; Id: 37, AT: 23, ST: 5; 
+Queue 2: Id: 46, AT: 17, ST: 1; Id: 47, AT: 18, ST: 1; Id: 49, AT: 20, ST: 7; 
+Queue 3: Id: 16, AT: 19, ST: 1; Id: 26, AT: 21, ST: 3; Id: 36, AT: 24, ST: 7; 
+Queue 4: Id: 18, AT: 20, ST: 3; Id: 48, AT: 21, ST: 2; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 40, AT: 19, ST: 6; Id: 20, AT: 23, ST: 7; 
+
+Time 25
+Waiting clients: [Id: 29, AT: 26, ST: 7, Id: 30, AT: 26, ST: 5, Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 45, AT: 17, ST: 2; Id: 41, AT: 19, ST: 2; Id: 37, AT: 23, ST: 5; 
+Queue 2: Id: 47, AT: 18, ST: 1; Id: 49, AT: 20, ST: 7; 
+Queue 3: Id: 26, AT: 21, ST: 3; Id: 36, AT: 24, ST: 7; 
+Queue 4: Id: 18, AT: 20, ST: 2; Id: 48, AT: 21, ST: 2; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 40, AT: 19, ST: 5; Id: 20, AT: 23, ST: 7; 
+
+Time 26
+Waiting clients: [Id: 27, AT: 27, ST: 2, Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 45, AT: 17, ST: 1; Id: 41, AT: 19, ST: 2; Id: 37, AT: 23, ST: 5; 
+Queue 2: Id: 49, AT: 20, ST: 7; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 26, AT: 21, ST: 2; Id: 36, AT: 24, ST: 7; 
+Queue 4: Id: 18, AT: 20, ST: 1; Id: 48, AT: 21, ST: 2; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 40, AT: 19, ST: 4; Id: 20, AT: 23, ST: 7; 
+
+Time 27
+Waiting clients: [Id: 43, AT: 28, ST: 7, Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 41, AT: 19, ST: 2; Id: 37, AT: 23, ST: 5; Id: 27, AT: 27, ST: 2; 
+Queue 2: Id: 49, AT: 20, ST: 6; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 26, AT: 21, ST: 1; Id: 36, AT: 24, ST: 7; 
+Queue 4: Id: 48, AT: 21, ST: 2; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 40, AT: 19, ST: 3; Id: 20, AT: 23, ST: 7; 
+
+Time 28
+Waiting clients: [Id: 5, AT: 29, ST: 5, Id: 39, AT: 29, ST: 5, Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 41, AT: 19, ST: 1; Id: 37, AT: 23, ST: 5; Id: 27, AT: 27, ST: 2; 
+Queue 2: Id: 49, AT: 20, ST: 5; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 7; Id: 43, AT: 28, ST: 7; 
+Queue 4: Id: 48, AT: 21, ST: 1; Id: 31, AT: 22, ST: 6; 
+Queue 5: Id: 40, AT: 19, ST: 2; Id: 20, AT: 23, ST: 7; 
+
+Time 29
+Waiting clients: [Id: 17, AT: 30, ST: 1, Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 37, AT: 23, ST: 5; Id: 27, AT: 27, ST: 2; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 49, AT: 20, ST: 4; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 6; Id: 43, AT: 28, ST: 7; 
+Queue 4: Id: 31, AT: 22, ST: 6; Id: 5, AT: 29, ST: 5; 
+Queue 5: Id: 40, AT: 19, ST: 1; Id: 20, AT: 23, ST: 7; 
+
+Time 30
+Waiting clients: [Id: 10, AT: 31, ST: 3, Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 37, AT: 23, ST: 4; Id: 27, AT: 27, ST: 2; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 49, AT: 20, ST: 3; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 5; Id: 43, AT: 28, ST: 7; 
+Queue 4: Id: 31, AT: 22, ST: 5; Id: 5, AT: 29, ST: 5; 
+Queue 5: Id: 20, AT: 23, ST: 7; Id: 17, AT: 30, ST: 1; 
+
+Time 31
+Waiting clients: [Id: 34, AT: 32, ST: 3, Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 37, AT: 23, ST: 3; Id: 27, AT: 27, ST: 2; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 49, AT: 20, ST: 2; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 4; Id: 43, AT: 28, ST: 7; Id: 10, AT: 31, ST: 3; 
+Queue 4: Id: 31, AT: 22, ST: 4; Id: 5, AT: 29, ST: 5; 
+Queue 5: Id: 20, AT: 23, ST: 6; Id: 17, AT: 30, ST: 1; 
+
+Time 32
+Waiting clients: [Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 37, AT: 23, ST: 2; Id: 27, AT: 27, ST: 2; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 49, AT: 20, ST: 1; Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 3; Id: 43, AT: 28, ST: 7; Id: 10, AT: 31, ST: 3; 
+Queue 4: Id: 31, AT: 22, ST: 3; Id: 5, AT: 29, ST: 5; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 20, AT: 23, ST: 5; Id: 17, AT: 30, ST: 1; 
+
+Time 33
+Waiting clients: [Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 37, AT: 23, ST: 1; Id: 27, AT: 27, ST: 2; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 29, AT: 26, ST: 7; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 2; Id: 43, AT: 28, ST: 7; Id: 10, AT: 31, ST: 3; 
+Queue 4: Id: 31, AT: 22, ST: 2; Id: 5, AT: 29, ST: 5; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 20, AT: 23, ST: 4; Id: 17, AT: 30, ST: 1; 
+
+Time 34
+Waiting clients: [Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 27, AT: 27, ST: 2; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 29, AT: 26, ST: 6; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 36, AT: 24, ST: 1; Id: 43, AT: 28, ST: 7; Id: 10, AT: 31, ST: 3; 
+Queue 4: Id: 31, AT: 22, ST: 1; Id: 5, AT: 29, ST: 5; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 20, AT: 23, ST: 3; Id: 17, AT: 30, ST: 1; 
+
+Time 35
+Waiting clients: [Id: 1, AT: 36, ST: 6, Id: 35, AT: 36, ST: 3, Id: 44, AT: 36, ST: 7, Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 27, AT: 27, ST: 1; Id: 39, AT: 29, ST: 5; 
+Queue 2: Id: 29, AT: 26, ST: 5; Id: 30, AT: 26, ST: 5; 
+Queue 3: Id: 43, AT: 28, ST: 7; Id: 10, AT: 31, ST: 3; 
+Queue 4: Id: 5, AT: 29, ST: 5; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 20, AT: 23, ST: 2; Id: 17, AT: 30, ST: 1; 
+
+Time 36
+Waiting clients: [Id: 14, AT: 37, ST: 6, Id: 22, AT: 37, ST: 7, Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 39, AT: 29, ST: 5; Id: 1, AT: 36, ST: 6; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 29, AT: 26, ST: 4; Id: 30, AT: 26, ST: 5; Id: 44, AT: 36, ST: 7; 
+Queue 3: Id: 43, AT: 28, ST: 6; Id: 10, AT: 31, ST: 3; 
+Queue 4: Id: 5, AT: 29, ST: 4; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 20, AT: 23, ST: 1; Id: 17, AT: 30, ST: 1; 
+
+Time 37
+Waiting clients: [Id: 38, AT: 38, ST: 5, Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 39, AT: 29, ST: 4; Id: 1, AT: 36, ST: 6; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 29, AT: 26, ST: 3; Id: 30, AT: 26, ST: 5; Id: 44, AT: 36, ST: 7; 
+Queue 3: Id: 43, AT: 28, ST: 5; Id: 10, AT: 31, ST: 3; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 5, AT: 29, ST: 3; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 17, AT: 30, ST: 1; Id: 14, AT: 37, ST: 6; 
+
+Time 38
+Waiting clients: [Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 39, AT: 29, ST: 3; Id: 1, AT: 36, ST: 6; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 29, AT: 26, ST: 2; Id: 30, AT: 26, ST: 5; Id: 44, AT: 36, ST: 7; 
+Queue 3: Id: 43, AT: 28, ST: 4; Id: 10, AT: 31, ST: 3; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 5, AT: 29, ST: 2; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 14, AT: 37, ST: 6; Id: 38, AT: 38, ST: 5; 
+
+Time 39
+Waiting clients: [Id: 9, AT: 40, ST: 2, Id: 13, AT: 40, ST: 6, Id: 15, AT: 40, ST: 2, Id: 21, AT: 40, ST: 6]
+Queue 1: Id: 39, AT: 29, ST: 2; Id: 1, AT: 36, ST: 6; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 29, AT: 26, ST: 1; Id: 30, AT: 26, ST: 5; Id: 44, AT: 36, ST: 7; 
+Queue 3: Id: 43, AT: 28, ST: 3; Id: 10, AT: 31, ST: 3; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 5, AT: 29, ST: 1; Id: 34, AT: 32, ST: 3; 
+Queue 5: Id: 14, AT: 37, ST: 5; Id: 38, AT: 38, ST: 5; 
+
+Time 40
+Waiting clients: none
+Queue 1: Id: 39, AT: 29, ST: 1; Id: 1, AT: 36, ST: 6; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 30, AT: 26, ST: 5; Id: 44, AT: 36, ST: 7; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 43, AT: 28, ST: 2; Id: 10, AT: 31, ST: 3; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 34, AT: 32, ST: 3; Id: 9, AT: 40, ST: 2; Id: 15, AT: 40, ST: 2; 
+Queue 5: Id: 14, AT: 37, ST: 4; Id: 38, AT: 38, ST: 5; Id: 21, AT: 40, ST: 6; 
+
+Time 41
+Waiting clients: none
+Queue 1: Id: 1, AT: 36, ST: 6; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 30, AT: 26, ST: 4; Id: 44, AT: 36, ST: 7; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 43, AT: 28, ST: 1; Id: 10, AT: 31, ST: 3; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 34, AT: 32, ST: 2; Id: 9, AT: 40, ST: 2; Id: 15, AT: 40, ST: 2; 
+Queue 5: Id: 14, AT: 37, ST: 3; Id: 38, AT: 38, ST: 5; Id: 21, AT: 40, ST: 6; 
+
+Time 42
+Waiting clients: none
+Queue 1: Id: 1, AT: 36, ST: 5; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 30, AT: 26, ST: 3; Id: 44, AT: 36, ST: 7; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 10, AT: 31, ST: 3; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 34, AT: 32, ST: 1; Id: 9, AT: 40, ST: 2; Id: 15, AT: 40, ST: 2; 
+Queue 5: Id: 14, AT: 37, ST: 2; Id: 38, AT: 38, ST: 5; Id: 21, AT: 40, ST: 6; 
+
+Time 43
+Waiting clients: none
+Queue 1: Id: 1, AT: 36, ST: 4; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 30, AT: 26, ST: 2; Id: 44, AT: 36, ST: 7; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 10, AT: 31, ST: 2; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 9, AT: 40, ST: 2; Id: 15, AT: 40, ST: 2; 
+Queue 5: Id: 14, AT: 37, ST: 1; Id: 38, AT: 38, ST: 5; Id: 21, AT: 40, ST: 6; 
+
+Time 44
+Waiting clients: none
+Queue 1: Id: 1, AT: 36, ST: 3; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 30, AT: 26, ST: 1; Id: 44, AT: 36, ST: 7; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 10, AT: 31, ST: 1; Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 9, AT: 40, ST: 1; Id: 15, AT: 40, ST: 2; 
+Queue 5: Id: 38, AT: 38, ST: 5; Id: 21, AT: 40, ST: 6; 
+
+Time 45
+Waiting clients: none
+Queue 1: Id: 1, AT: 36, ST: 2; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 44, AT: 36, ST: 7; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 7; 
+Queue 4: Id: 15, AT: 40, ST: 2; 
+Queue 5: Id: 38, AT: 38, ST: 4; Id: 21, AT: 40, ST: 6; 
+
+Time 46
+Waiting clients: none
+Queue 1: Id: 1, AT: 36, ST: 1; Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 44, AT: 36, ST: 6; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 6; 
+Queue 4: Id: 15, AT: 40, ST: 1; 
+Queue 5: Id: 38, AT: 38, ST: 3; Id: 21, AT: 40, ST: 6; 
+
+Time 47
+Waiting clients: none
+Queue 1: Id: 35, AT: 36, ST: 3; 
+Queue 2: Id: 44, AT: 36, ST: 5; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 5; 
+Queue 4: Empty
+Queue 5: Id: 38, AT: 38, ST: 2; Id: 21, AT: 40, ST: 6; 
+
+Time 48
+Waiting clients: none
+Queue 1: Id: 35, AT: 36, ST: 2; 
+Queue 2: Id: 44, AT: 36, ST: 4; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 4; 
+Queue 4: Empty
+Queue 5: Id: 38, AT: 38, ST: 1; Id: 21, AT: 40, ST: 6; 
+
+Time 49
+Waiting clients: none
+Queue 1: Id: 35, AT: 36, ST: 1; 
+Queue 2: Id: 44, AT: 36, ST: 3; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 3; 
+Queue 4: Empty
+Queue 5: Id: 21, AT: 40, ST: 6; 
+
+Time 50
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 44, AT: 36, ST: 2; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 2; 
+Queue 4: Empty
+Queue 5: Id: 21, AT: 40, ST: 5; 
+
+Time 51
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 44, AT: 36, ST: 1; Id: 13, AT: 40, ST: 6; 
+Queue 3: Id: 22, AT: 37, ST: 1; 
+Queue 4: Empty
+Queue 5: Id: 21, AT: 40, ST: 4; 
+
+Time 52
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 13, AT: 40, ST: 6; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Id: 21, AT: 40, ST: 3; 
+
+Time 53
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 13, AT: 40, ST: 5; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Id: 21, AT: 40, ST: 2; 
+
+Time 54
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 13, AT: 40, ST: 4; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Id: 21, AT: 40, ST: 1; 
+
+Time 55
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 13, AT: 40, ST: 3; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 56
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 13, AT: 40, ST: 2; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 57
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Id: 13, AT: 40, ST: 1; 
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 58
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 59
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Time 60
+Waiting clients: none
+Queue 1: Empty
+Queue 2: Empty
+Queue 3: Empty
+Queue 4: Empty
+Queue 5: Empty
+
+Average waiting time: 4.32
+Average service time: 4.32
+Peak hour: 40
